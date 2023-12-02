@@ -1,0 +1,88 @@
+/* 颜色 */
+:root {
+    --daiyu-theme-op: #4259ef23;
+    --daiyu-white: #fff;
+    --daiyu-black: #000;
+    --daiyu-none: rgba(0, 0, 0, 0);
+    --daiyu-gray: #999999;
+    --daiyu-yellow: #ffc93e;
+    --daiyu-border-radius: 8px;
+    --daiyu-main: var(--daiyu-theme);
+    --daiyu-main-op: var(--daiyu-theme-op);
+    --daiyu-shadow-theme: 0 8px 12px -3px var(--daiyu-theme-op);
+    --daiyu-shadow-main: 0 8px 12px -3px var(--daiyu-main-op);
+    --daiyu-shadow-blue: 0 8px 12px -3px rgba(40, 109, 234, 0.2);
+    --daiyu-shadow-white: 0 8px 12px -3px rgba(255, 255, 255, 0.2);
+    --daiyu-shadow-black: 0 0 12px 4px rgba(0, 0, 0, 0.05);
+    --daiyu-shadow-yellow: 0px 38px 77px -26px rgba(255, 201, 62, 0.12);
+    --daiyu-shadow-red: 0 8px 12px -3px #ee7d7936;
+    --daiyu-shadow-green: 0 8px 12px -3px #87ee7936;
+    --daiyu-shadow-border: 0 8px 16px -4px #2c2d300c;
+    --daiyu-logo-color: linear-gradient(215deg, #4584ff 30%, #ff7676 70%);
+    --style-border: 1px solid var(--daiyu-card-border);
+    --daiyu-blue-main: #3b70fc;
+    --style-border-hover: 1px solid var(--daiyu-main);
+    --style-border-dashed: 1px dashed var(--daiyu-theme-op);
+    --style-border-avatar: 4px solid var(--daiyu-background);
+    --style-border-always: 1px solid var(--daiyu-card-border);
+    --daiyu-white-acrylic1: #fefeff !important;
+    --daiyu-white-acrylic2: #fcfdff !important;
+    --daiyu-black-acrylic2: #08080a !important;
+    --daiyu-black-acrylic1: #0b0b0e !important;
+  }
+  
+  [data-theme="light"] {
+    --daiyu-theme: #3b70fc;
+    --daiyu-theme-op: #4259ef23;
+    --daiyu-blue: #3b70fc;
+    --daiyu-red: #d8213c;
+    --daiyu-pink: #ff7c7c;
+    --daiyu-green: #57bd6a;
+    --daiyu-fontcolor: #363636;
+    --daiyu-background: #f7f9fe;
+    --daiyu-reverse: #000;
+    --daiyu-maskbg: rgba(255, 255, 255, 0.6);
+    --daiyu-maskbgdeep: rgba(255, 255, 255, 0.85);
+    --daiyu-hovertext: var(--daiyu-theme);
+    --daiyu-ahoverbg: #f7f7fa;
+    --daiyu-lighttext: var(--daiyu-main);
+    --daiyu-secondtext: rgba(60, 60, 67, 0.6);
+    --daiyu-scrollbar: rgba(60, 60, 67, 0.4);
+    --daiyu-card-btn-bg: #edf0f7;
+    --daiyu-post-blockquote-bg: #fafcff;
+    --daiyu-post-tabs-bg: #f2f5f8;
+    --daiyu-secondbg: #edf0f7;
+    --daiyu-shadow-nav: 0 5px 12px -5px rgba(102, 68, 68, 0.05);
+    --daiyu-card-bg: #fff;
+    --daiyu-shadow-lightblack: 0 5px 12px -5px rgba(102, 68, 68, 0);
+    --daiyu-shadow-light2black: 0 5px 12px -5px rgba(102, 68, 68, 0);
+    --daiyu-card-border: #c0c6d8;
+  }
+  
+  [data-theme="dark"] {
+    --daiyu-theme: #0084ff;
+    --daiyu-theme-op: #0084ff23;
+    --daiyu-blue: #0084ff;
+    --daiyu-red: #ff3842;
+    --daiyu-pink: #ff7c7c;
+    --daiyu-green: #57bd6a;
+    --daiyu-fontcolor: #f7f7fa;
+    --daiyu-background: #18171d;
+    --daiyu-reverse: #fff;
+    --daiyu-maskbg: rgba(0, 0, 0, 0.6);
+    --daiyu-maskbgdeep: rgba(0, 0, 0, 0.85);
+    --daiyu-hovertext: #0a84ff;
+    --daiyu-ahoverbg: #fff;
+    --daiyu-lighttext: #f2b94b;
+    --daiyu-secondtext: #a1a2b8;
+    --daiyu-scrollbar: rgba(200, 200, 223, 0.4);
+    --daiyu-card-btn-bg: #30343f;
+    --daiyu-post-blockquote-bg: #000;
+    --daiyu-post-tabs-bg: #121212;
+    --daiyu-secondbg: #30343f;
+    --daiyu-shadow-nav: 0 5px 20px 0px rgba(28, 28, 28, 0.4);
+    --daiyu-card-bg: #1d1b26;
+    --daiyu-shadow-lightblack: 0 5px 12px -5px rgba(102, 68, 68, 0);
+    --daiyu-shadow-light2black: 0 5px 12px -5px rgba(102, 68, 68, 0);
+    --daiyu-card-border: #42444a;
+  }
