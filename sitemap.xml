@@ -11,25 +11,7 @@
   </url>
   
   <url>
-    <loc>http://daiyu.fun/page/charts/index.html</loc>
-    
-    <lastmod>2023-12-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://daiyu.fun/page/tags/index.html</loc>
-    
-    <lastmod>2023-12-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://daiyu.fun/page/link/index.html</loc>
     
     <lastmod>2023-12-23</lastmod>
     
@@ -47,7 +29,16 @@
   </url>
   
   <url>
-    <loc>http://daiyu.fun/posts/dd14.html</loc>
+    <loc>http://daiyu.fun/page/charts/index.html</loc>
+    
+    <lastmod>2023-12-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://daiyu.fun/page/link/index.html</loc>
     
     <lastmod>2023-12-23</lastmod>
     
@@ -57,6 +48,15 @@
   
   <url>
     <loc>http://daiyu.fun/posts/d53b.html</loc>
+    
+    <lastmod>2023-12-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://daiyu.fun/posts/878a.html</loc>
     
     <lastmod>2023-12-23</lastmod>
     
@@ -99,13 +99,6 @@
     <priority>1.0</priority>
   </url>
 
-  
-  <url>
-    <loc>http://daiyu.fun/tags/C/</loc>
-    <lastmod>2023-12-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
   <url>
     <loc>http://daiyu.fun/tags/Hexo/</loc>
