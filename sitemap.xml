@@ -4,7 +4,7 @@
   <url>
     <loc>http://daiyu.fun/manifest.json</loc>
     
-    <lastmod>2023-12-23</lastmod>
+    <lastmod>2023-12-24</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +13,7 @@
   <url>
     <loc>http://daiyu.fun/page/charts/index.html</loc>
     
-    <lastmod>2023-12-23</lastmod>
+    <lastmod>2023-12-24</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +22,7 @@
   <url>
     <loc>http://daiyu.fun/page/check-back-link/index.html</loc>
     
-    <lastmod>2023-12-23</lastmod>
+    <lastmod>2023-12-24</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +31,7 @@
   <url>
     <loc>http://daiyu.fun/page/link/index.html</loc>
     
-    <lastmod>2023-12-23</lastmod>
+    <lastmod>2023-12-24</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +40,7 @@
   <url>
     <loc>http://daiyu.fun/page/tags/index.html</loc>
     
-    <lastmod>2023-12-23</lastmod>
+    <lastmod>2023-12-24</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,7 +49,7 @@
   <url>
     <loc>http://daiyu.fun/owo.json</loc>
     
-    <lastmod>2023-12-23</lastmod>
+    <lastmod>2023-12-24</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -58,7 +58,7 @@
   <url>
     <loc>http://daiyu.fun/posts/d53b.html</loc>
     
-    <lastmod>2023-12-23</lastmod>
+    <lastmod>2023-12-24</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -67,7 +67,7 @@
   <url>
     <loc>http://daiyu.fun/posts/9db5.html</loc>
     
-    <lastmod>2023-12-23</lastmod>
+    <lastmod>2023-12-24</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -76,7 +76,7 @@
   <url>
     <loc>http://daiyu.fun/posts/878a.html</loc>
     
-    <lastmod>2023-12-23</lastmod>
+    <lastmod>2023-12-24</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -85,7 +85,7 @@
   <url>
     <loc>http://daiyu.fun/posts/da27.html</loc>
     
-    <lastmod>2023-12-23</lastmod>
+    <lastmod>2023-12-24</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -94,7 +94,7 @@
   <url>
     <loc>http://daiyu.fun/posts/a5ca.html</loc>
     
-    <lastmod>2023-12-23</lastmod>
+    <lastmod>2023-12-24</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -103,7 +103,7 @@
   <url>
     <loc>http://daiyu.fun/css/iconfont/iconfont.json</loc>
     
-    <lastmod>2023-12-23</lastmod>
+    <lastmod>2023-12-24</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -112,7 +112,7 @@
 
   <url>
     <loc>http://daiyu.fun/</loc>
-    <lastmod>2023-12-23</lastmod>
+    <lastmod>2023-12-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -120,7 +120,7 @@
   
   <url>
     <loc>http://daiyu.fun/tags/Hexo/</loc>
-    <lastmod>2023-12-23</lastmod>
+    <lastmod>2023-12-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
