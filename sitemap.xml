@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://daiyu.fun/manifest.json</loc>
-    
-    <lastmod>2023-12-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://daiyu.fun/page/charts/index.html</loc>
     
     <lastmod>2023-12-29</lastmod>
@@ -65,6 +56,24 @@
   </url>
   
   <url>
+    <loc>http://daiyu.fun/manifest.json</loc>
+    
+    <lastmod>2023-12-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://daiyu.fun/css/iconfont/iconfont.json</loc>
+    
+    <lastmod>2023-12-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://daiyu.fun/posts/d53b.html</loc>
     
     <lastmod>2023-12-29</lastmod>
@@ -102,15 +111,6 @@
   
   <url>
     <loc>http://daiyu.fun/posts/a5ca.html</loc>
-    
-    <lastmod>2023-12-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://daiyu.fun/css/iconfont/iconfont.json</loc>
     
     <lastmod>2023-12-29</lastmod>
     
